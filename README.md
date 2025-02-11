@@ -96,7 +96,4 @@ This project is an AI-powered chatbot that enables users to query a product and 
   - `http://localhost:3000`  
 
 
-This README file follows GitHub markdown formatting and is ready to be uploaded to your repository. Let me know if you need any modifications! 🚀
-
-
 
